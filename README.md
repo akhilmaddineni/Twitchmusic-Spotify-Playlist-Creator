@@ -40,4 +40,4 @@ spotify_client_id = ''
 spotify_secret = ''
 ```
 
-After editing the config.py with the required parameters , run main.py to create spotify playlist from the streamers song list . 
+After editing the config.py with the required parameters , run `python main.py` to create spotify playlist from the streamers song list . 
