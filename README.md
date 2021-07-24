@@ -34,7 +34,7 @@ spotify_client_id =
 
 # Spotify token can be generated at : https://developer.spotify.com/console/post-playlists/
 # In this page click on get token and copy the token to the below variable
-# while creating the token give permission to playlist create public filed to create playlist on your account
+# while creating the token give permission to playlist create public field to create playlist on your account
 # Example spotify_secret = someUniQueKeyFromSpotify
 spotify_secret =
 ```
@@ -44,6 +44,6 @@ After all the necessary parameters are filled in config.txt file , run Twitchmus
 
 Prerequsites :- 
 1. Python 3 
-2. `pip install requirements.txt`
+2. `pip install -r requirements.txt`
 
 After editing the config.txt with the required parameters , run `python main.py` to create spotify playlist from the streamers song list . 
