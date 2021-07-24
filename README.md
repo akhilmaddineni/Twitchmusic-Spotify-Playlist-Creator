@@ -1,11 +1,11 @@
 # Twitchmusic-Spotify-Playlist-Creator
-Creating spotify playlist from twitch streamer songlist . 
+## Creating spotify playlist from twitch streamer songlist 
 
-Twitch Music streamers mostly use streamersonglist to manage their songlist . 
+Twitch Music streamers mostly use [streamersonglist](https://www.streamersonglist.com/) to manage their songlist . 
 
 Use this tool to convert twitch music songlists to a spotify playlist on your account . 
 
-Download the tool from the Github repo releases section .
+Download the tool (Twitchmusic_spoitfy_playlist_creator.exe and config.txt file) from the Github repo releases section .
 
 After downloading the tool , Edit the config.txt file to fill out all the necessary info . 
 
