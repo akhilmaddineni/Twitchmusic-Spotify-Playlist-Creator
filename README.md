@@ -38,6 +38,7 @@ spotify_client_id =
 # Example spotify_secret = someUniQueKeyFromSpotify
 spotify_secret =
 ```
+After all the necessary parameters are filled in config.txt file , run Twitchmusic_spoitfy_playlist_creator.exe to create a spotify playlist from streamer's songlist . 
 
 ### How to run the repo locally
 
