@@ -40,6 +40,8 @@ spotify_secret =
 ```
 After all the necessary parameters are filled in config.txt file , run Twitchmusic_spoitfy_playlist_creator.exe to create a spotify playlist from streamer's songlist . 
 
+songs_not_found.csv will be generated for any songs that were not found by the program on spotify .
+
 ### How to run the repo locally
 
 Prerequsites :- 
